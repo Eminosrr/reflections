@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, the changes in the folder can be tracked by Git now. You can use it for version control and also share it in GitHub to use it in more than one PCs.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is an intermediate stage between working directory and repository before committing.
