@@ -3,3 +3,7 @@ When you initialize a repository, the changes in the folder can be tracked by Gi
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is an intermediate stage between working directory and repository before committing.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can upload only the files with related changes to the logical change to the staging area.
+
