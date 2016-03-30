@@ -15,3 +15,6 @@ It shows the relation between commits, and reachability.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of merging two branches is clearly self-explanatory. It merges the additions and deletions made in two different branches originated from a single branch at a time. The representations of the merging that one branch lines up with another is because a branch was already an additional feature or an experimental trial which was meant to merge into the main branch if successful.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of merging manually is that you are always in control of your code, but it is something time consuming and comes with human error. However, automatically merging is an automated version of  merging the branches and it even asks you how to resolve if there is a conflict between two commits.
