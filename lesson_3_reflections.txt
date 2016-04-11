@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+I would like to use this feature as I would like to store my scripts in a cloud and use it in different computers. It is also beneficial for group work when people use their own computer but contributing to the same project.
