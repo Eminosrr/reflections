@@ -12,3 +12,6 @@ It is beneficial to compare the modified version in your local repo with the pub
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 If you are working in the same office maybe it would be easier to call your colleague and resolve the problem right away. But if she/he is busy or in distant office using GitHub makes your collaboration a lot easier when compared to not using.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to try something experimental and keep the working version of the code intact. 
